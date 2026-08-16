@@ -353,10 +353,12 @@ Web Dashboard Updates
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Muhammad Azfar Waqas**  
 BS Cybersecurity — University of Wah
+**Muhammad Haris**
+BS Computer Science - University of Wah
 
 ---
 
